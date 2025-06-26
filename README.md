@@ -54,4 +54,4 @@ Customize Firefox titlebar buttons (close, minimize, maximize/restore) using SVG
 
 MIT License — do whatever you want, but attribution is appreciated.
 
-
+The whole thing has been adapted from https://github.com/vinceliuice/WhiteSur-firefox-theme, the icons were not made by me.
