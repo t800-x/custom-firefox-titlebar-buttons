@@ -26,13 +26,8 @@ Customize Firefox titlebar buttons (close, minimize, maximize/restore) using SVG
    - Open `about:support`
    - Under *Profile Folder*, click *Open Folder*
 
-3. **Create a `chrome` folder** in your profile directory (if it doesn't already exist):
 
-   ```bash
-   mkdir -p ~/.mozilla/firefox/your-profile-id.default-release/chrome
-   ```
-
-4. **Copy the chrome folder into your profile directory.
+3. **Copy the chrome folder into your profile directory.
 
    - Ensure your file structure looks like:
      ```
@@ -42,7 +37,7 @@ Customize Firefox titlebar buttons (close, minimize, maximize/restore) using SVG
          //icons
      ```
 
-5. **Restart Firefox** to apply the changes.
+4. **Restart Firefox** to apply the changes.
 
 ## 🎨 Customization
 
